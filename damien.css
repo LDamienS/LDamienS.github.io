@@ -28,6 +28,7 @@
                           }
             #bodyaboutme {
                         background-image: url("myBackground.jpeg");
+                        background-repeat: no-repeat;
                         background-size: cover;
                          }
                       
