@@ -1,12 +1,12 @@
 
             #bodyindex, #bodyjavascripts {
-                background-color: lightblue;
+                background-color: yellow;
                  }
             #banner {
                         width: 100%;
-                        margin-top:0px;
-                        margin-right:0px;
-                        margin-left:0px;
+                        margin-top: 0px;
+                        margin-left: 0px;
+                        margin-right: 0px;
                     }
             #nav-table {
                         width: 100%;
