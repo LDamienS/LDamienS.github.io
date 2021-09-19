@@ -1,6 +1,6 @@
 
             #bodyindex, #bodyjavascripts {
-                background-color: red;
+                background-color: lightblue;
                  }
             #banner {
                         width: 100%;
@@ -10,13 +10,14 @@
                     }
             #nav-table {
                         width: 100%;
-                        background-color:darkblue;
+                        background-color: rgb(91,44,111);
+                        margin-top: 0px;
                        }
             #nav-id {
                         width: 350px;
                         text-align:center;
                     }
             #home-button {
-                        width: 350px;
+                        width: 250px;
                          }
             
