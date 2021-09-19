@@ -2,4 +2,15 @@
             #bodyindex, #bodyjavascripts {
                 background-color: lightblue;
                  }
+            #banner {
+                        width: 100%;
+                    }
+            #nav-table {
+                        width: 100%;
+                       }
+            #nav-id {
+                        width: 200px;
+                        text-align:center;
+                    }
+
             
