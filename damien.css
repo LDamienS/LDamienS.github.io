@@ -55,10 +55,14 @@
             #damienphoto1 {
                         float: left;
                         text-align: left;
+                        width: 33%;
+                        height: auto;
                           }
             #damienphoto2 {
                         float: right;
                         text-align: right;
+                        width: 33%;
+                        height: auto;
                           }
             #basketball {
                         text-align: center;
