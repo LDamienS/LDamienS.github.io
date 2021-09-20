@@ -46,6 +46,10 @@
             h1 {
                         padding: 32px;
                         text-align: center;
-                        font-family: Courier New;
+                        font-family: "Courier New";
                }
+            p {
+                        padding: 32px;
+                        text-align: center;
+                        font-family: "Courier New";
                       
