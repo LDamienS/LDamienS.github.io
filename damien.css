@@ -57,21 +57,25 @@
                         text-align: left;
                         width: 33%;
                         height: auto;
+                        padding 4px;
                           }
             #damienphoto2 {
                         float: right;
                         text-align: right;
                         width: 33%;
                         height: auto;
+                        padding 4px;
                           }
             #basketball {
                         text-align: center;
                         width: 33%;
                         height: auto;
+                        padding: 4px;
                         }
             #gaming {
                         text-align:center;
                         width: 33%;
-                        height: auto;
+                        height: 200px;
+                        padding: 4px;
                     }
                       
