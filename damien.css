@@ -52,5 +52,18 @@
                         text-align: center;
                         font-family: "Courier New";
                }
-
+            #damienphoto1 {
+                        float: left;
+                        text-align: left;
+                          }
+            #damienphoto2 {
+                        float: right;
+                        text-align: right;
+                          }
+            #basketball {
+                        text-align: center;
+                        }
+            #gaming {
+                        text-align:center;
+                    }
                       
