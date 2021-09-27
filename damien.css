@@ -78,4 +78,21 @@
                         height: auto;
                         padding: 4px;
                     }
+            #bitmoji {
+                        text-align: left;
+                        float: left;
+                        width: 33%;
+                        padding: 4px;
+                     }
+            #bitmojidance {
+                        text-align: center;
+                        width: 33%;
+                        padding: 4px;
+                     }
+            #bitmojirace {
+                        text-align: right;
+                        float: right;
+                        width: 33%;
+                        padding: 4px;
+                     }
                       
